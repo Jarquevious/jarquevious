@@ -6,22 +6,22 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jarquevious-nelson/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jarquevious@gmail.com)
 
-Welcome to my Github page! I am Jarquevious and I am currently finishing my Computer Engineering Bachelor degree at Make School!  
+Welcome to my Github page! I am Jarquevious, a a software developer in Atlanta, Ga. Currently finding product market fit for my new startup. 
 
 #### 🌱 Things I am currently working on: 
-- Finish my Computer Science Degree with a concentration in frontend development  
-- Taking online courses about UI Development and User Research 
-- Writing Test Code for OmnesConnx 
-- Developing a web app for creating a personalize vote plan
+- Finish my Computer Science Degree with a concentration in backend development  
+- Taking online courses about TensorFlow.  
+- Writing backend code for the Nail Art App  
+- Developing an A.I. App
 
 <img align="right" alt="img" src="https://drive.google.com/file/d/1V8h0xiGWcOngMQjexdMLdD5pmZIQ4G-2/view?usp=sharing" width="50%" height="auto" />
 
 
 #### :muscle: Things I am challenging myself with:
-- Waking up earlier to meditate 
+- Writing the entire backend for a startup
 - Coding at least 4 hours a day
-- Exercising 5 days a week
-- Improving Frontend Skills by working on passion project 2 hours a day
+- Incorporating TensorFlow into the codebase
+- Writing code for product I am taking to market. 
 
 #### :computer: Programming languages and tools: 
 ### <p>
